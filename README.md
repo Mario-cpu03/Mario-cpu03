@@ -1,16 +1,26 @@
-## Hi there 👋
+# Mario-cpu03's GitHub
 
-<!--
-**Mario-cpu03/Mario-cpu03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Engineering student** at **UniSA**, with a deep interest in **telecommunications**, **data analysis**, **astrophysics**, and **quantum mechanics**. My goal is to become a **Quantum Telecommunication Engineer**, where I can combine advanced technology with the fascinating world of quantum physics.
 
-Here are some ideas to get you started:
+In addition to my technical pursuits, I am a **multi-instrumentalist musician** with a passion for playing the piano and guitar, as well as singing. I also have a keen interest in **fashion**, constantly exploring new trends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Interests
+
+- **Telecommunications** & **Quantum Computing**
+- **Data Analysis** & **Machine Learning**
+- **Software Development** & **Algorithms**
+- **Astrophysics** & **Quantum Mechanics**
+- **Music** (Piano, Guitar, Singing)
+- **Fashion**
+
+## Programming Languages & Technologies
+
+- **R**
+- **Matlab**
+- **Verilog HDL**
+- **C**
+- **Java**
+- **Assembly** (MIPS32)
+- **Bash Scripting**
+
+Feel free to explore my repositories and reach out if you’d like to collaborate or learn more about any of my work.
