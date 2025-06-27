@@ -1,8 +1,8 @@
 # Mario-cpu03's GitHub
 
-I am a **Computer Engineering student** at **UniSA**, with a deep interest in **telecommunications**, **data analysis**, **astrophysics**, and **quantum mechanics**. My goal is to become a **Quantum Telecommunication Engineer**, where I can combine advanced technology with the fascinating world of quantum physics.
+Hello! I'm a **Computer Engineering student** at **UniSA** with a passion for **telecommunications**, **data analysis**, **astrophysics**, and **quantum mechanics**. My ultimate goal is to become a **Quantum Telecommunication Engineer**, where I can blend cutting-edge technology with the exciting possibilities of quantum physics.
 
-In addition to my technical pursuits, I am a **multi-instrumentalist musician** with a passion for playing the piano and guitar, as well as singing. I also have a keen interest in **fashion**, constantly exploring new trends.
+Beyond the tech world, I’m a **multi-instrumentalist musician** who loves playing the piano and guitar, and I enjoy singing as well. Fashion is another area where I find inspiration, and I love exploring the latest trends.
 
 ## Skills & Interests
 
@@ -23,4 +23,8 @@ In addition to my technical pursuits, I am a **multi-instrumentalist musician** 
 - **Assembly** (MIPS32)
 - **Bash Scripting**
 
-Feel free to explore my repositories and reach out if you’d like to collaborate or learn more about any of my work.
+## Projects
+
+On my GitHub, you'll find a variety of projects that showcase my interests, each representing a piece of my journey toward becoming a Telecomm Engineer.
+
+Feel free to browse through my repositories, and don’t hesitate to reach out if you’re interested in collaborating or want to discuss any of my work!
