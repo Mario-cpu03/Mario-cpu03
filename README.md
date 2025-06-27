@@ -2,7 +2,7 @@
 
 Hello! I'm a **Computer Engineering student** at **UniSA** with a passion for **telecommunications**, **data analysis**, **astrophysics**, and **quantum mechanics**. My ultimate goal is to become a **Quantum Telecommunication Engineer**, where I can blend cutting-edge technology with the exciting possibilities of quantum physics.
 
-Beyond the tech world, I’m a **multi-instrumentalist musician** who loves playing the piano and guitar, and I enjoy singing as well. Fashion is another area where I find inspiration, and I love exploring the latest trends.
+Beyond the tech world, I’m a **multi-instrumentalist musician** who loves singing, playing guitar and piano. Fashion is another area where I find inspiration, and I love exploring myself through it.
 
 ## Skills & Interests
 
