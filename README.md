@@ -7,7 +7,7 @@ Beyond the tech world, I’m a **multi-instrumentalist musician** who loves sing
 ## Skills & Interests
 
 - **Telecommunications** & **Quantum Computing**
-- **Data Analysis** & **Machine Learning**
+- **Data Analysis**
 - **Software Development** & **Algorithms**
 - **Astrophysics** & **Quantum Mechanics**
 - **Music** (Piano, Guitar, Singing)
